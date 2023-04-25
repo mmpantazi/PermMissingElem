@@ -8,7 +8,7 @@ Your goal is to find that missing element.
 
 Write a function:
 
-  * int solution(vector<int> &A); *
+  *int solution(vector<int> &A);*
 
 that, given an array A, returns the value of the missing element.
 
